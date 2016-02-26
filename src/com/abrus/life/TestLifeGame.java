@@ -1,9 +1,10 @@
 package com.abrus.life;
 
 import static org.junit.Assert.*;
-import javafx.scene.control.Cell;
+//import javafx.scene.control.Cell;
 
 import org.junit.Test;
+
 
 public class TestLifeGame {
 
